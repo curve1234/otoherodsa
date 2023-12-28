@@ -1,2 +1,2 @@
 # otoherodsa
-completing dsa o crack faang
+completing dsa to crack faang
